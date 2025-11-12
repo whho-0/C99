@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-// 18108 - 불기연도
+// 10430 - 나머지
 int main(void)
 {
     int BE=0, AD=0;
