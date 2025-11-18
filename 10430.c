@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-// 10430 - 나머지
+// 10430 - 나머지 연산
 int main(void) 
 {
 	int a, b, c;
